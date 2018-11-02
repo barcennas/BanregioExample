@@ -32,12 +32,13 @@ This project uses:
 * ImagePickerController for camara and photo library usage
 * How to create a left main menu
 
-![GitHub Logo](login.png)
-![GitHub Logo](addUser.png)
-![GitHub Logo](customAlert.png)
-![GitHub Logo](map.png)
-![GitHub Logo](mapWithRoute.png)
-![GitHub Logo](search.png)
-![GitHub Logo](tutorial.png)
-![GitHub Logo](leftMenu.png)
-![GitHub Logo](addPeople.png)
+![GitHub Logo](login.PNG)
+![GitHub Logo](addUser.PNG)
+![GitHub Logo](customAlert.PNG)
+![GitHub Logo](map.PNG)
+![GitHub Logo](mapWithRoute.PNG)
+![GitHub Logo](search.PNG)
+![GitHub Logo](tutorial.PNG)
+![GitHub Logo](leftMenu.PNG)
+![GitHub Logo](addPeople.PNG)
+![GitHub Logo](people.PNG)
